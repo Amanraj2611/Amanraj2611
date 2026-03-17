@@ -42,6 +42,25 @@ Java-based ATM simulator with user authentication
 
 ---
 
+## 🎓 Education
+
+- **Master of Computer Applications (MCA)**
+  - *Currently Pursuing*
+  - Computer Applications & Software Development
+
+- **Bachelor's Degree**
+  - Information Technology / Computer Science
+
+---
+
+## 🏆 Certifications
+
+- **Deloitte Technology Job Simulation** - Deloitte
+  - Certificate of Completion (July 31st, 2025)
+  - Completed advanced technology simulation and practical training
+
+---
+
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanraj2611/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rajaman2611@gmail.com)  
