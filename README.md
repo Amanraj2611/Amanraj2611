@@ -44,21 +44,32 @@ Java-based ATM simulator with user authentication
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**
-  - *Currently Pursuing*
-  - Computer Applications & Software Development
-
-- **Bachelor's Degree**
-  - Information Technology / Computer Science
+| Degree | Institute | Year |
+|--------|-----------|------|
+| MCA | St. Andrews Institute of Technology Management, Gurugram | 2024 – 2026 |
+| BCA | Patiputra University, Rohtak | 2021 – 2024 |
 
 ---
 
 ## 🏆 Certifications
 
 - **Deloitte Technology Job Simulation** - Deloitte
+  - Certificate of Completion (July 31st, 2025)
+  - Completed advanced technology simulation and practical training
+
 - **CodSoft – Web Development Internship Certificate**
+  - Web Development Internship Completion
+  - Practical hands-on experience with modern web technologies
+
 - **Smart India Hackathon – Participation Certificate**
+  - Participated in Smart India Hackathon
+  - Collaborative problem-solving and innovation challenge
+
 - **Java – Programming Certification**
+  - Java Programming Fundamentals
+  - Core concepts and advanced programming techniques
+
+---
 
 ## 🌐 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanraj2611/)  
