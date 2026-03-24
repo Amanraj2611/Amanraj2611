@@ -69,3 +69,27 @@ Java-based ATM simulator with user authentication
 ---
 
 ⭐ Feel free to check out my repositories!
+
+
+## 📈 2025-2026 Highlights & Contributions
+
+### Key Achievements
+- **33 contributions** in the last year across multiple projects
+- **Full-Stack Development**: Built complete applications using Spring Boot, React, and MySQL
+- **Online Voting System**: Developed a comprehensive full-stack voting platform with secure authentication and real-time data management
+- **Projects Pinned**: Featured my best work on GitHub profile including:
+  - Online Voting System (Backend & Frontend)
+  - Bank Management System
+  - Electricity Billing System
+
+### Technical Growth
+- Advanced Spring Boot & JWT authentication implementation
+- React component architecture and state management
+- Database design and optimization with MySQL
+- Git version control and collaborative development
+- REST API design and implementation
+
+### Recent Work Focus
+- **2025-2026**: Concentrating on full-stack web development and microservices architecture
+- **Lab Assignments**: Successfully completed bioinformatics and data mining coursework
+- **Code Quality**: Emphasis on clean code, testing, and documentation
