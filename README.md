@@ -93,3 +93,24 @@ Java-based ATM simulator with user authentication
 - **2025-2026**: Concentrating on full-stack web development and microservices architecture
 - **Lab Assignments**: Successfully completed bioinformatics and data mining coursework
 - **Code Quality**: Emphasis on clean code, testing, and documentation
+
+### 🌟 Notable Projects
+
+- **Online Voting System** - A comprehensive full-stack voting platform with JWT authentication, real-time data processing, and secure transaction management built using Spring Boot, React, and MySQL.
+- **Bank Management System** - Complete banking solution with account management, transaction processing, and customer data management featuring JDBC operations and stored procedures.
+
+### 📄 Current Learning Focus
+
+- Microservices architecture and deployment patterns
+- Advanced Spring Boot security and OAuth2 implementation
+- React hooks and state management optimization
+- Data preprocessing and machine learning algorithms (HMM, Neural Networks)
+
+### 🙋 Let's Connect
+
+I'm always interested in collaborating on exciting full-stack projects! Feel free to reach out for:
+- Freelance opportunities
+- Open-source contributions
+- Technical discussions and code reviews
+
+**Happy Coding!** ✨
