@@ -78,9 +78,8 @@ Java-based ATM simulator with user authentication
 - **Full-Stack Development**: Built complete applications using Spring Boot, React, and MySQL
 - **Online Voting System**: Developed a comprehensive full-stack voting platform with secure authentication and real-time data management
 - **Projects Pinned**: Featured my best work on GitHub profile including:
-  - Online Voting System (Backend & Frontend)
-  - Bank Management System
-  - Electricity Billing System
+- Amanraj2611
+    - online-voting-frontend
 
 ### Technical Growth
 - Advanced Spring Boot & JWT authentication implementation
