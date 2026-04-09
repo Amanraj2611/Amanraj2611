@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aman Raj
 
-### Full-Stack Developer | MCA Student | Java & Spring Boot Enthusiast
+## Full-Stack Developer | MCA Student | Java & Spring Boot Enthusiast
 
 I'm an MCA student at St. Andrews Institute of Technology and Management, Gurugram, with a strong interest in building real-world full-stack applications using Java, Spring Boot, React, and MySQL.
 
@@ -27,16 +27,16 @@ I'm an MCA student at St. Andrews Institute of Technology and Management, Gurugr
 
 ## 📌 Featured Projects
 
-### 🏦 [Bank Management System](https://github.com/Amanraj2611/Bank-mangement-system)
+## 🏦 [Bank Management System](https://github.com/Amanraj2611/Bank-mangement-system)
 A Java & MySQL application for managing accounts, transactions, and customer data operations.
 
-### 🏧 [ATM Interface](https://github.com/Amanraj2611/ATM-Interface)
+## 🏧 [ATM Interface](https://github.com/Amanraj2611/ATM-Interface)
 A Java-based ATM simulator featuring user authentication and core banking operations.
 
-### ⚡ [Electricity Billing System](https://github.com/Amanraj2611/Electricity-Billing-System)
+## ⚡ [Electricity Billing System](https://github.com/Amanraj2611/Electricity-Billing-System)
 A desktop application for bill calculations, customer management, and billing operations.
 
-### 🎮 [NumberGAME](https://github.com/Amanraj2611/NumberGAME)
+## 🎮 [NumberGAME](https://github.com/Amanraj2611/NumberGAME)
 An interactive number guessing game with multiple difficulty levels.
 
 ---
