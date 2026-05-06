@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">Full-Stack Developer | Java • Spring Boot • React • TypeScript • MySQL</h3>
+<h3 align="center">Full-Stack Developer | Java • Spring Boot • React • JavaScript • MySQL</h3>
 
 <p align="center">
   MCA student at <b>St. Andrews Institute of Technology & Management</b>, Gurugram<br/>
