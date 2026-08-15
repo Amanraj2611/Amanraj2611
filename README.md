@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">Full-Stack Developer | Java • Spring Boot • React • JavaScript • MySQL</h3>
+<h3 align="center">Full-Stack Java Developer | Spring Boot • React.js • TypeScript • MySQL</h3>
 
 <p align="center">
-  MCA student at <b>St. Andrews Institute of Technology & Management</b>, Gurugram<br/>
-  Passionate about building practical web applications and solving real-world problems
+  MCA student at <b>St. Andrews Institute of Technology & Management</b>, Gurugram
+  <br/>
+  Passionate about building scalable web applications and solving real-world problems
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amanraj2611">GitHub</a> •
+  <a href="https://www.linkedin.com/in/amanraj2611">LinkedIn</a> •
+  <a href="https://amanportfolio26.netlify.app/">Portfolio</a>
 </p>
 
 ---
@@ -11,14 +18,18 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing MCA from **St. Andrews Institute of Technology & Management**
-- 💻 Focused on **Java, Spring Boot, React.js, TypeScript, and MySQL**
+- 💻 Skilled in **Java, Spring Boot, React.js, TypeScript, and MySQL**
 - 🌱 Currently learning **Microservices, Spring Security, and scalable backend development**
 - 🔍 Interested in **Full-Stack Development, Backend Engineering, and Software Design**
-- 📍 Based in **Haryana, India*
+- 📍 Based in **Gurugram, Haryana, India**
 
 ---
 
 ## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,spring,mysql,git,github,postman,vscode,idea,html,css,bootstrap" />
+</p>
 
 ### Languages
 - Java
@@ -39,10 +50,10 @@
 - CSS3
 - Bootstrap
 
-### Database & Tools
+### Tools & Database
 - MySQL
 - Git
-- GitH
+- GitHub
 - Postman
 - VS Code
 - IntelliJ IDEA
@@ -51,24 +62,24 @@
 
 ## 🚀 Featured Projects
 
-### 1. Online Voting System
-A secure full-stack voting platform built using Spring Boot, React, and MySQL with authentication and role-based access.
+### Online Voting System
+A secure full-stack voting platform built using **Spring Boot, React.js, and MySQL** with authentication and role-based access.
 
 **Highlights**
 - User registration and login
 - JWT-based authentication
-- Admin and voter roles
-- Candidate and election management
-- Responsive frontend interface
+- Admin and voter role management
+- Candidate and election handling
+- Responsive frontend experience
 
-### 2. Bank Management System
-A Java-based application focused on core banking operations and object-oriented design concepts.
+### Bank Management System
+A Java-based application focused on **core banking operations** and object-oriented programming principles.
 
 **Highlights**
 - Account creation and management
-- Deposit and withdrawal features
+- Deposit and withdrawal functionality
 - Transaction handling
-- Console-based workflow i
+- Console-based workflow implementation
 
 ---
 
@@ -90,21 +101,20 @@ A Java-based application focused on core banking operations and object-oriented 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanraj2611&theme=tokyonight" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanraj2611&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
 
 - GitHub: [github.com/Amanraj2611](https://github.com/Amanraj2611)
 - LinkedIn: [linkedin.com/in/amanraj2611](https://www.linkedin.com/in/amanraj2611)
+- Portfolio: [amanportfolio26.netlify.app](https://amanportfolio26.netlify.app/)
 
 ---
 
 ## ✨ Developer Focus
 
-Passionate about writing clean code, building useful applications, and continuously improving as a software developer through projects,
-practice, and learning.
-
-
-- Postman
-- VS Code
-- Inte
+Passionate about writing clean code, building practical applications, and continuously improving through projects, problem-solving, and hands-on learning.
